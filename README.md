@@ -1,19 +1,18 @@
-# PyPower Project - Emotion Detection using AI
+# Sentiment Analyzer: Product Feedback for Video & Audio
 
-## Emotion Detection
+A cutting-edge project utilizing Python, Haar Cascade, and BERT to perform sentiment analysis on product feedback through video and audio inputs. This approach ensures a comprehensive understanding of consumer emotions, empowering businesses with actionable insights.
 
-- Kaggle Dataset :- https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data.
+Kaggle Dataset:- https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data.
 
-- Use train.py file to train the model.
+Key Features:
 
-- Change the number of classes according to you.
+-Analyze video and audio feedback for accurate sentiment detection.
 
-- Do Experiment with different pre-trained models.
+-Employ Haar Cascade for facial expression recognition in videos.
 
-- Execute the test.py file to run the Emotion Detection.
+-Leverage BERT for natural language processing of audio transcriptions.
 
-- Enjoy Deep Learning.
+-Adaptable across diverse product domains, delivering deep business insights.
 
-## The detailed tutorial is available in this video. Please do refer for better understanding.
+-Unlock the potential of consumer feedback with advanced multimodal sentiment analysis
 
-- https://youtu.be/PulKlAZRoAY
